@@ -1,0 +1,1 @@
+#diretório de testes criado durante a configuração do git no windows 7 para produção e controle de versões
