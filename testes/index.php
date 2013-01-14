@@ -20,7 +20,7 @@
 <body>
 	<div class="titulos">Meu teste #1 - OBJETOS</div>
 
-	<?
+	<? 
 	class Pessoa{
 
 		private $nome;
